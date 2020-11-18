@@ -10,7 +10,7 @@
 
 - 터틀봇3 와플파이 Setup
 
-<img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C/image/turtlebot3-front.JPG" width="50%"></img> <img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C/image/turtlebot3-up.JPG" width="50%"></img>
+<img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C/image/turtlebot3-front.JPG" width="55%"></img> <img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C/image/turtlebot3-up.JPG" width="35%"></img>
 
 - 임베디드보드(라즈베리파이 업그레이드) 성능 업그레이드
   - 라즈베리파이3+ VS 라즈베리파이4 (8G)
