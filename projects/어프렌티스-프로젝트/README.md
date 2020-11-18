@@ -1,5 +1,5 @@
 ## 특허검색
-- [특허검색](http://www.kipris.or.kr/khome/main.jsp
+- [특허검색](http://www.kipris.or.kr/khome/main.jsp)
 
 
 ## 임동민/최원희 아이디어
