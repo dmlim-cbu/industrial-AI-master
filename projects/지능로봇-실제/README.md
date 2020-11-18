@@ -24,7 +24,7 @@
   - Source Code : 
     
   
-- [03] 하나의 node에서 2개이상의 토픽 subscribe하기
+- [03] ROS node & topic (하나의 node에서 2개이상의 토픽 subscribe하기)
   - 과제 내용 : 
     - 노드는 다음과 같이 구성한다.
     - 1번 node : 1과 10 사이의 랜덤한 값을 A로 publish
