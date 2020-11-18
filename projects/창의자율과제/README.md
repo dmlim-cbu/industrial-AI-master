@@ -1,6 +1,8 @@
 # [01] 과제명 : 이동로봇에 대한 모니터링 시스템개발
 
 ## 신청서
+- [창의자율과제 신청서
+](https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C/%EC%9D%B4%EB%8F%99%EB%A1%9C%EB%B4%87%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/%EC%8B%A0%EC%B2%AD%EC%84%9C/(%EC%96%91%EC%8B%9D)%EC%9E%AC%EC%A7%81%EC%9E%90%EC%84%9D%EC%82%AC%EA%B3%BC%EC%A0%95%20%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C%20%EC%95%88%EB%82%B4%EB%AC%B8%20%EB%B0%8F%20%EC%8B%A0%EC%B2%AD%EC%84%9C_%EC%9E%84%EB%8F%99%EB%AF%BC.hwp)
 
 ## 구현
 
