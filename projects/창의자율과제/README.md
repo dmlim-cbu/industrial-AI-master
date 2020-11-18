@@ -17,7 +17,7 @@
 <img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%B0%BD%EC%9D%98%EC%9E%90%EC%9C%A8%EA%B3%BC%EC%A0%9C/image/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4-%EB%B0%B4%EC%B9%98%EB%A7%88%ED%82%B9.JPG" width="70%"></img>
 
     - 업그레이드 필요성
-      - 영상인식, 2D LDS 처리(차후 16ch Laida 교체), 이베디드에서 Visualization 등의 기능을 수행하기 위한 성능(CPU/GPU/RAM/USB3.0 boot) Upgrade 필요 인식 
+      - 영상인식, 2D LDS 처리(차후 16ch Laida 교체), 임베디드에서 Visualization 등의 기능을 수행하기 위한 성능(CPU/GPU/RAM/USB3.0 boot) Upgrade 필요 인식 
       - 향후 데이터량을 고려한 로컬보드(라즈베리파이)에서 시각화 처리하고, 시각화된 영상은 VNC로 서버에 전송하여 서버에서 모니터링 한다.
 
 
