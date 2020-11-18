@@ -1,5 +1,5 @@
 ## Robot
-<img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/3d-lidar-modt.JPG" width="50%"></img>
+<img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/3d-lidar-modt.JPG" width="50%"></img> |
 <img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/Generic-RobotSystem.JPG" width="50%"></img>
 
 ## 실습
