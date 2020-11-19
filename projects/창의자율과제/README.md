@@ -19,7 +19,7 @@
     - 업그레이드 필요성
       - 영상인식, 2D LDS 처리(차후 16ch Lidar 교체), 임베디드에서 시각화(RAM 용량 Up) 등의 기능을 수행하기 위한 성능(CPU/GPU/RAM/USB3.0 boot) Upgrade 필요 인식 
       - 향후 데이터량을 고려한 로컬보드(라즈베리파이)에서 시각화 처리하고, 시각화된 영상은 VNC로 서버에 전송하여 서버에서 모니터링 한다.
-      - ROS bag 저장을 위한 USB Memory 용약(256G) Up, SD 카드보다 빠른 Booting 및 Data R/W 속도 개선을 위한 USB3.0 부팅(Storage 포함) 사용 
+      - ROS bag 저장을 위한 USB Memory 용량(256G) Up, SD 카드보다 빠른 Booting 및 Data R/W 속도 개선을 위한 USB3.0 부팅(Storage 포함) 사용 
 
 
 - 라즈베리파이4 개발 환경 구축 
