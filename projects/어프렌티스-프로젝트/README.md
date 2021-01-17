@@ -25,6 +25,7 @@
 ## 특허출원
 - 특허명 : 자율주행차를 운행하면서 전방에 물체가 인지되었을 때 직진성에대한 트레이드오프의 방법
 - 특허요약서
+<img src="https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%8A%B9%ED%97%88%EC%9A%94%EC%95%BD%EC%84%9C/%ED%8A%B9%ED%97%88%EC%9A%94%EC%95%BD%EC%84%9C_201201.JPG" width="70%"></img>
 - 특허 명세서 : [명세서](https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%8A%B9%ED%97%88%EC%9A%94%EC%95%BD%EC%84%9C/20201201_%EB%AA%85%EC%84%B8%EC%84%9C_%EC%9E%84%EB%8F%99%EB%AF%BC.hwp.pdf)
 
 
