@@ -54,7 +54,7 @@
   - Header header와 int array(반지름), float array(넓이)를 포함하는 custom msg로 publish 
   - Rostopic echo [topic name]으로 결과확인
 
-- 리포트 : [실습문제](https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)take-home-exam_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C_20201217.hwp)
-- Source Code : [실습문제](https://github.com/dmlim-cb/industrial-AI-master/tree/master/programming/CPP/exam_code/exam_code)
+- 리포트 : [take-home-exam_실습문제](https://github.com/dmlim-cb/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)take-home-exam_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C_20201217.hwp)
+- Source Code : [프로그램](https://github.com/dmlim-cb/industrial-AI-master/tree/master/programming/CPP/exam_code/exam_code)
 
 
