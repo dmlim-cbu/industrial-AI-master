@@ -4,12 +4,14 @@
 ## 리포트
 - [01] Python 프로그램
   - 과제 내용 : 
-    - (1). Graph라는 클래스를 만들어 cos, sin, tan, log 함수를 각각 화면에 출력하는 메서드를 구현하시오. 
-         (class와 math, matplotlib 활용)
-    - (2). 본인의 사진을 찍어 해당 파일을 읽어 이미지를 표시하시오. (imshow, imread 활용)
+    - (1). 히스토그램 평탄화 - 사용자로부터 R, G, B 중의 하나의 채널을 입력받고 입력받은 채널에 대한 히스토그램을 그리고 평탄화를 한 후에 그 영상을 출력하시오. (선택받은 채널 이외의 채널 값은 변화하지 않음)
+    - (2). 공간 도메인 필터링 - 각 픽셀에 임의의 값을 더해 노이즈를 생성하고, 사용자로부터 Bilateral filtering을 위한 diameter, SigmaColor, SigmaSpace를 입력받아 노이즈를 제거하고 노이즈 제거 전후의 영상을 출력하시오. (다양한 파라미터 변화를 통해 영상이 어떻게 변화하는지 보고서에 넣으시오.)
+    - (3). 주파수 도메인 필터링 - DFT를 통해서 영상을 주파수 도메인으로 바꿔서 출력 한 후에 사용자로부터 반지름을 입력받아서 그 크기만큼의 원을 그린 후에 DFT 결과에 곱해준 후에 IDFT를 해서 필터링된 영상을 출력하시오. 사용자로부터 Low pass인지 High Pass인지를 입력받아 Low pass면 원 안을 통과시키고, High Pass면 원 바깥을 통과시키도록 하시오.
+    - (4). 모폴로지 필터 - 영상을 이진화한 후에 사용자로부터 Erosion, Dilation, Opening, Closing에 대한 선택과 횟수를 입력받아서 해당 결과를 출력하시오.
+
   - 리포트 : [Python 프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/Python%20Program)
   - Source Code : 
-    - [Python Source](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/Python%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/pycode.py)     
+    - [Source](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C1)     
   
 ## 강의자료
 - [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
