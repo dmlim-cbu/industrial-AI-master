@@ -1,4 +1,4 @@
-## Industrial of Computer Vision
+## Industrial Computer Vision
 </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/ComputerVision.JPG" width="70%"></img> 
 
 ## 리포트
