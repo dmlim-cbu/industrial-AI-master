@@ -1,0 +1,3 @@
+version: 1.5
+name: "testparam"
+param_bool: true
