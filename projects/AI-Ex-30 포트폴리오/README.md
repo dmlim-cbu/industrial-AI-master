@@ -12,9 +12,9 @@
 - take-home-exam_실습문제
 ## 산업 인공지능 개론 (4)
 - (1) [2021-04-09] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_durable_rules_%EC%8B%A4%EC%8A%B5.pptx)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/durable_rules):durable_rules_실습
-- (2) [2021-04-29] [보고서](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_%EB%B6%84%EB%A5%98%EB%B0%8F%ED%9A%8C%EA%B8%B0_%EC%8B%A4%EC%8A%B5_20210429a.pptx):분류및회기
+- (2) [2021-04-29] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_%EB%B6%84%EB%A5%98%EB%B0%8F%ED%9A%8C%EA%B8%B0_%EC%8B%A4%EC%8A%B5_20210429a.pptx):분류및회기
 - (3) [2021-05-09] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B8%B0%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%84%EC%9E%A5%EC%9D%B4%EC%8A%88%20%EB%B6%84%EC%84%9D%EC%97%90%20%ED%99%9C%EC%9A%A9.pptx)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%B6%84%EB%A5%98%ED%9A%8C%EA%B8%B0):회기모델을 이용한 현장이슈 분석에 활용
-- (4) [2021-05-28] [보고서](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_durable_rules_%EC%8B%A4%EC%8A%B5.pptx):ResNet학습모델
+- (4) [2021-05-28] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_durable_rules_%EC%8B%A4%EC%8A%B5.pptx):ResNet학습모델
 ## 딥러닝실제 (4)
 - 딥러닝의 응용 현황_202010323
 - 사진 뷰어
