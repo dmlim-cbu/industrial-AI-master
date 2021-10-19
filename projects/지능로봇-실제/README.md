@@ -45,12 +45,12 @@
   - Source Code : [message, service, param](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/ros_msg)
 
 - [05] 실습 문제 
-  1초마다 랜덤하게 n개의 반지름을 생성하여 각각의 반지름을 계산하여 넓이를 계산해주는 서비스 구현, 이때 반지름과 넓이를 메시지로 Publish해야 함 
-  - 1초마다 random으로 n개의 반지름 생성 
-  - Int array를 input, float array를 output으로 하는 srv생성 
-  - Input array 각각의 값을 반지름으로 하는 원의 넓이를 계산해 output array로 return, 
-  - Header header와 int array(반지름), float array(넓이)를 포함하는 custom msg로 publish 
-  - Rostopic echo [topic name]으로 결과확인
+  - 문제 : 1초마다 랜덤하게 n개의 반지름을 생성하여 각각의 반지름을 계산하여 넓이를 계산해주는 서비스 구현, 이때 반지름과 넓이를 메시지로 Publish해야 함 
+    - 1초마다 random으로 n개의 반지름 생성 
+    - Int array를 input, float array를 output으로 하는 srv생성 
+    - Input array 각각의 값을 반지름으로 하는 원의 넓이를 계산해 output array로 return, 
+    - Header header와 int array(반지름), float array(넓이)를 포함하는 custom msg로 publish 
+    - Rostopic echo [topic name]으로 결과확인
 
   - 리포트 : [실습문제](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)take-home-exam_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C_20201217.hwp)
   - Source Code : [프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/exam_code/exam_code)
