@@ -1,0 +1,22 @@
+IssueID, CarNum, ISart, IEnd, Priority, Frequency
+
+IssueID - Issue ID
+CarNum - 차량번호(호차)
+ISart - Issue 발생일
+IEnd - Issue 처리 완료일 (미할당-w30, 검토중-w15, 완료-완료일)
+=> IPP - Issue 처리기간 (IPP = IEnd - IStar)
+Priority - Issue 중요도 (Critical-3, Major-2, Minor-1)
+Frequency - 같은 Issue 발생 빈도 (누적 Count)
+
+정보 - IssueID,  CarNum 
+처리기간이 길고(20), 중요도가 높고(30), 발생빈도(50)
+=>Score 90이상 - 가장 우선으로 처리해야할 이슈를 도출  
+ :  ID - CarNum cnt, IPP, Pri, Fre
+
+Fre : 10*50 = 500
+Pri : 30*30 = 90
+IPP : 기간 = 기간
+
+Score = Fre + Pri + IPP (Min 81, Max 620, 도출 점수 558[90%]이상)  
+
+classification 분류
