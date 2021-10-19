@@ -16,10 +16,10 @@
 - (3) [2021-05-09] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B8%B0%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%98%84%EC%9E%A5%EC%9D%B4%EC%8A%88%20%EB%B6%84%EC%84%9D%EC%97%90%20%ED%99%9C%EC%9A%A9.pptx)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%B6%84%EB%A5%98%ED%9A%8C%EA%B8%B0):회기모델을 이용한 현장이슈 분석에 활용
 - (4) [2021-05-28] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_durable_rules_%EC%8B%A4%EC%8A%B5.pptx):ResNet학습모델
 ## 딥러닝실제 (4)
-- 딥러닝의 응용 현황_202010323
-- 사진 뷰어
-- LeNet-5로 MNIST 인식 
-- 딥러닝실제 11주차 과제
+- (1) [2021-03-23] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98%20%EC%9D%91%EC%9A%A9%20%ED%98%84%ED%99%A9_20210323.hwp):딥러닝의 응용 현황
+- (2) [2021-04-05] [[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/5%EC%A3%BC%EC%B0%A8_%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C_FullAdder):실습과제_FullAdder
+- (3) [2021-04-14] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EC%8B%A0%EA%B2%BD%ED%9A%8C%EB%A1%9C%EB%A7%9D%EC%9D%98%20%EC%97%AD%EC%82%AC.hwp):신경회로망의 역사
+- (4) [2021-05-04] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)9%EC%A3%BC%EC%B0%A8%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C.hwp):9주차실습과제
 ## 지능화 파일럿 프로젝트 (4)
 - 논문대체 프로젝트 수행 계획서_임동민
 - 지능화 파일럿_ 프로젝트 계획 발표(양식)
