@@ -36,8 +36,7 @@
     - [ros-node-실습](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/%ED%95%98%EB%82%98%EC%9D%98%20node%EC%97%90%EC%84%9C%202%EA%B0%9C%EC%9D%B4%EC%83%81%EC%9D%98%20%ED%86%A0%ED%94%BD%20subscribe%ED%95%98%EA%B8%B0)
 
 - [03] ROS package,node,topic 실습
-  - [07] [ROS package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS%20package%2Cnode%2Ctopic_1118.hwp)
-  - Source Code : [package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/package%2Cnode%2Ctopic)
+  - 리포트 : [ROS package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS%20package%2Cnode%2Ctopic_1118.hwp)
   
 - [04] ROS message, service, param 실습
   - [ROS_message_실습](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS_message_%EC%8B%A4%EC%8A%B5_20201124.hwp)
