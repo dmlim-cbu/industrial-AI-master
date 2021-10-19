@@ -23,6 +23,7 @@
   - 리포트 : [Python 프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/Python%20Program)
   - Source Code : 
     - [Python Source](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/Python%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/pycode.py)     
+
 - [02] ROS node & topic (하나의 node에서 2개이상의 토픽 subscribe하기)
   - 과제 내용 : 
     - 노드는 다음과 같이 구성한다.
@@ -33,20 +34,17 @@
   - 리포트 : [하나의 node에서 2개이상의 토픽 subscribe하기](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%ED%95%98%EB%82%98%EC%9D%98%20node%EC%97%90%EC%84%9C%202%EA%B0%9C%EC%9D%B4%EC%83%81%EC%9D%98%20%ED%86%A0%ED%94%BD%20subscribe%ED%95%98%EA%B8%B0%20REPORT_20201118.hwp)
   - Source Code :
     - [ros-node-실습](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/%ED%95%98%EB%82%98%EC%9D%98%20node%EC%97%90%EC%84%9C%202%EA%B0%9C%EC%9D%B4%EC%83%81%EC%9D%98%20%ED%86%A0%ED%94%BD%20subscribe%ED%95%98%EA%B8%B0)
-  
-- [01-실습] [Rectangle 클래스 만들기](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)Rectangle%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20REPORT_20201103.hwp)
-- [02-실습] [참조 매개 변수를 가진 함수 만들기](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EC%B0%B8%EC%A1%B0%20%EB%A7%A4%EA%B0%9C%20%EB%B3%80%EC%88%98%EB%A5%BC%20%EA%B0%80%EC%A7%84%20%ED%95%A8%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20REPORT_20201109.hwp)
-- [03_실습] ROS_message_실습 (실습 - [08] ROS_message_실습)
-  - Source Code : [ROS_message_실습](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/ros_msg)
-  
-## 강의자료
-- [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
 
-## 세미나
-- [01] [다양한 손동작을 구현해 주는 유연한 착용형 로봇의 설계 및 제어](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%84%B8%EB%AF%B8%EB%82%98/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%86%90%EB%8F%99%EC%9E%91%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%B4%20%EC%A3%BC%EB%8A%94%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%B0%A9%EC%9A%A9%ED%98%95%20%EB%A1%9C%EB%B4%87%EC%9D%98%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EC%A0%9C%EC%96%B4.pdf)
+- [03] ROS package,node,topic 실습
+  - [07] [ROS package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS%20package%2Cnode%2Ctopic_1118.hwp)
+  - Source Code : [package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/ros_msg)
+  
+- [04] ROS message, service, param 실습
+  - [ROS_message_실습](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS_message_%EC%8B%A4%EC%8A%B5_20201124.hwp)
+  - [ROS_service_param_실습](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS_service_param_%EC%8B%A4%EC%8A%B5_20201202.hwp)
+  - Source Code : [message, service, param](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/ros_msg)
 
-## 기말고사 (실습문제)
-- 실습 문제 : 
+- [05] 실습 문제 
   1초마다 랜덤하게 n개의 반지름을 생성하여 각각의 반지름을 계산하여 넓이를 계산해주는 서비스 구현, 이때 반지름과 넓이를 메시지로 Publish해야 함 
   - 1초마다 random으로 n개의 반지름 생성 
   - Int array를 input, float array를 output으로 하는 srv생성 
@@ -54,7 +52,11 @@
   - Header header와 int array(반지름), float array(넓이)를 포함하는 custom msg로 publish 
   - Rostopic echo [topic name]으로 결과확인
 
-- 리포트 : [take-home-exam_실습문제](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)take-home-exam_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C_20201217.hwp)
-- Source Code : [프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/exam_code/exam_code)
+  - 리포트 : [take-home-exam_실습문제](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)take-home-exam_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C_20201217.hwp)
+  - Source Code : [프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/exam_code/exam_code)
+  
+## 강의자료
+- [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
 
-
+## 세미나
+- [01] [다양한 손동작을 구현해 주는 유연한 착용형 로봇의 설계 및 제어](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%84%B8%EB%AF%B8%EB%82%98/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%86%90%EB%8F%99%EC%9E%91%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%B4%20%EC%A3%BC%EB%8A%94%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%B0%A9%EC%9A%A9%ED%98%95%20%EB%A1%9C%EB%B4%87%EC%9D%98%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EC%A0%9C%EC%96%B4.pdf)
