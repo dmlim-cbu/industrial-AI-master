@@ -59,4 +59,4 @@
 - [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
 
 ## 세미나
-- [01] [다양한 손동작을 구현해 주는 유연한 착용형 로봇의 설계 및 제어](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%84%B8%EB%AF%B8%EB%82%98/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%86%90%EB%8F%99%EC%9E%91%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%B4%20%EC%A3%BC%EB%8A%94%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%B0%A9%EC%9A%A9%ED%98%95%20%EB%A1%9C%EB%B4%87%EC%9D%98%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EC%A0%9C%EC%96%B4.pdf)
+- [다양한 손동작을 구현해 주는 유연한 착용형 로봇의 설계 및 제어](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%84%B8%EB%AF%B8%EB%82%98/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%86%90%EB%8F%99%EC%9E%91%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%B4%20%EC%A3%BC%EB%8A%94%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%B0%A9%EC%9A%A9%ED%98%95%20%EB%A1%9C%EB%B4%87%EC%9D%98%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EC%A0%9C%EC%96%B4.pdf)
