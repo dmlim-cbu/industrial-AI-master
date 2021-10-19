@@ -4,14 +4,14 @@
 
 ## 리포트
 - [01] 딥러닝의 응용 현황
-  - 리포트 : [분류및회기](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_%EB%B6%84%EB%A5%98%EB%B0%8F%ED%9A%8C%EA%B8%B0_%EC%8B%A4%EC%8A%B5_20210429a.pptx)
+  - 리포트 : [딥러닝의 응용 현황](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_%EB%B6%84%EB%A5%98%EB%B0%8F%ED%9A%8C%EA%B8%B0_%EC%8B%A4%EC%8A%B5_20210429a.pptx)
 
 - [02] 실습과제_FullAdder
-    - Source Code : 
+  - Source Code : 
     - [Source](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/5%EC%A3%BC%EC%B0%A8_%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C_FullAdder)     
 
 - [03] 신경회로망의 역사 
-  - 리포트 : [회기모델을 이용한 현장이슈 분석에 활용](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EC%8B%A0%EA%B2%BD%ED%9A%8C%EB%A1%9C%EB%A7%9D%EC%9D%98%20%EC%97%AD%EC%82%AC.hwp)
+  - 리포트 : [신경회로망의 역사](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EC%8B%A0%EA%B2%BD%ED%9A%8C%EB%A1%9C%EB%A7%9D%EC%9D%98%20%EC%97%AD%EC%82%AC.hwp)
 
 - [04] 9주차실습과제 
   - 과제내용
@@ -25,7 +25,7 @@
       - (2) Hidden Neuron의 개수는 최소1, 최대 10으로 설정
       - (3) Hidden Neuron개수를 줄일 경우 학습시간 감소, Trainset과 Testset의 정확도가 떨어짐
       - (4) Hidden Neuron개수를 늘리면 학습 시간이 증가하고, 50 이상 넘어가면서 정확도가 떨어짐. 
-  - 리포트 : [회기모델을 이용한 현장이슈 분석에 활용](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)9%EC%A3%BC%EC%B0%A8%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C.hwp)
+  - 리포트 : [9주차실습과제](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)9%EC%A3%BC%EC%B0%A8%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C.hwp)
  
 ## 강의자료
 - [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
