@@ -11,7 +11,7 @@
 - ROS_message_실습 (실습 - [08] ROS_message_실습)
 - take-home-exam_실습문제
 ## 산업 인공지능 개론 (4)
-- (1) [2021-04-09] [보고서](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_durable_rules_%EC%8B%A4%EC%8A%B5.pptx)[프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/durable_rules):durable_rules_실습
+- (1) [2021-04-09] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%9E%84%EB%8F%99%EB%AF%BC_durable_rules_%EC%8B%A4%EC%8A%B5.pptx)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/durable_rules):durable_rules_실습
 - (2) [2021-04-29] 분류및회기
 - (3) [2021-05-09] 회기모델을 이용한 현장이슈 분석에 활용
 - (4) [2021-05-28] ResNet학습모델
