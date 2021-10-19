@@ -1,6 +1,6 @@
 
 ## Deep Learning
-</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/AI.JPG" width="80%"></img> 
+</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/deeplearning.JPG" width="80%"></img> 
 
 ## 리포트
 - [01] 딥러닝의 응용 현황
