@@ -37,12 +37,12 @@
 
 - [03] ROS package,node,topic 실습
   - [07] [ROS package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS%20package%2Cnode%2Ctopic_1118.hwp)
-  - Source Code : [package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/ros_msg)
+  - Source Code : [package,node,topic](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/package%2Cnode%2Ctopic)
   
 - [04] ROS message, service, param 실습
   - [ROS_message_실습](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS_message_%EC%8B%A4%EC%8A%B5_20201124.hwp)
   - [ROS_service_param_실습](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EC%8B%A4%EC%8A%B5/(%EC%9E%84%EB%8F%99%EB%AF%BC)ROS_service_param_%EC%8B%A4%EC%8A%B5_20201202.hwp)
-  - Source Code : [message, service, param](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/ros_msg)
+  - Source Code : [message, service, param](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/message%2C%20service%2C%20param)
 
 - [05] 실습 문제 
   - 문제 : 1초마다 랜덤하게 n개의 반지름을 생성하여 각각의 반지름을 계산하여 넓이를 계산해주는 서비스 구현, 이때 반지름과 넓이를 메시지로 Publish해야 함 
