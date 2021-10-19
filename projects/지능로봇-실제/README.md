@@ -20,7 +20,7 @@
     - (1). Graph라는 클래스를 만들어 cos, sin, tan, log 함수를 각각 화면에 출력하는 메서드를 구현하시오. 
          (class와 math, matplotlib 활용)
     - (2). 본인의 사진을 찍어 해당 파일을 읽어 이미지를 표시하시오. (imshow, imread 활용)
-  - 리포트 : [Python 프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/Python%20Program)
+  - 리포트 : [Python 프로그램](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%20python%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%8B%A4%EC%8A%B5.hwp)
   - Source Code : 
     - [Python Source](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87%EC%8B%A4%EC%A0%9C/Python%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)     
 
@@ -52,7 +52,7 @@
     - Header header와 int array(반지름), float array(넓이)를 포함하는 custom msg로 publish 
     - Rostopic echo [topic name]으로 결과확인
 
-  - 리포트 : [실습문제](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)take-home-exam_%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C_20201217.hwp)
+  - 리포트 : [실습문제](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%EB%A1%9C%EB%B4%87-%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EC%8B%A4%EC%8A%B5%EB%AC%B8%EC%A0%9C_20201217.hwp)
   - Source Code : [프로그램](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/CPP/exam_code/exam_code)
   
 ## 강의자료
