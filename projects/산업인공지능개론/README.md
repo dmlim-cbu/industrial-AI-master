@@ -23,4 +23,4 @@
     - 발표자료와 소스코드를 e-campus를 통해 제출
 
 ## 강의자료
-- [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
+- [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%82%B0%EC%97%85%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%A1%A0/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
