@@ -22,11 +22,10 @@
 - (2) [2021-04-05] [[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/5%EC%A3%BC%EC%B0%A8_%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C_FullAdder):실습과제_FullAdder
 - (3) [2021-04-14] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EC%8B%A0%EA%B2%BD%ED%9A%8C%EB%A1%9C%EB%A7%9D%EC%9D%98%20%EC%97%AD%EC%82%AC.hwp):신경회로망의 역사
 - (4) [2021-05-04] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)9%EC%A3%BC%EC%B0%A8%EC%8B%A4%EC%8A%B5%EA%B3%BC%EC%A0%9C.hwp):9주차실습과제
-## 지능화 파일럿 프로젝트 (4)
-- 논문대체 프로젝트 수행 계획서_임동민
-- 지능화 파일럿_ 프로젝트 계획 발표(양식)
-- 지능화 파일럿_ 프로젝트 설계 발표-임동민
-- 논문 분석 과제_임동민
+## 지능화 파일럿 프로젝트 (3)
+- (1) [2021-09-09] [[발표자료]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF_%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%20%EB%B0%9C%ED%91%9C_%EC%9E%84%EB%8F%99%EB%AF%BC.pptx):프로젝트 계획 발표
+- (2) [2021-09-23] [[발표자료]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EB%85%BC%EB%AC%B8%20%EB%B6%84%EC%84%9D%20%EA%B3%BC%EC%A0%9C_%EC%9E%84%EB%8F%99%EB%AF%BC.pptx):논문 분석(과제)
+- (3) [2021-09-30] [[발표자료]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF_%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EA%B3%84%20%EB%B0%9C%ED%91%9C-%EC%9E%84%EB%8F%99%EB%AF%BC.pptx):프로젝트 설계 발표
 ## 컴퓨터 비전 실제 (2)
 - (1) [2021-10-13] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EA%B3%BC%EC%A0%9C1_%EB%B3%B4%EA%B3%A0%EC%84%9C_20211013.hwp)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C1):과제1_보고서_20211013
 - (2) [2021-10-20] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)mid_term_project.pptx)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-project):중간고사 프로젝트
