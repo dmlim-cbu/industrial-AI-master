@@ -21,5 +21,10 @@
     - 다음주(10/20) 강의시간에 각자 5page 내외로 발표
     - 발표자료와 소스코드를 e-campus를 통해 제출
 
+  - 리포트 : [과제1](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EA%B3%BC%EC%A0%9C1_%EB%B3%B4%EA%B3%A0%EC%84%9C_20211013.hwp
+)
+  - Source Code : 
+    - [Source](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C1)     
+
 ## 강의자료
 - [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
