@@ -46,5 +46,5 @@
 - [세미나](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84%20%EB%B6%84%EC%95%BC%EC%9D%98%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
 
 ## 강의자료
-- [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- [강의자료](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
 
