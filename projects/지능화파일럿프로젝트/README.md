@@ -25,13 +25,20 @@
   
 - [02] 프로젝트 계획 발표
 
-</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%AA%A9%ED%91%9C.JPG" width="60%"></img>
+</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%AA%A9%ED%91%9C.JPG" width="60%"></img> 
 
   - 리포트 : [발표자료](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF_%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%20%EB%B0%9C%ED%91%9C_%EC%9E%84%EB%8F%99%EB%AF%BC.pptx)
 
 - [03] 프로젝트 설계 발표
+
+</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/vbs_communication.JPG" width="40%"></img>    <img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%84%B1.JPG" width="50%">
+
   - 리포트 : [발표자료](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%ED%8F%AC%ED%8A%B8/%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%8C%EC%9D%BC%EB%9F%BF_%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%A4%EA%B3%84%20%EB%B0%9C%ED%91%9C-%EC%9E%84%EB%8F%99%EB%AF%BC.pptx)
-  
+
+- 프로젝트 1차 시험
+
+
+
 ## 세미나
 - [세미나](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84%20%EB%B6%84%EC%95%BC%EC%9D%98%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
 
