@@ -17,8 +17,6 @@
   - 과제내용
     - 현업에서 컴퓨터비전 관련 문제를 정하고 관련 데이터베이스를 수집한 후에 이에 대한 초기 프로젝트를 진행함
     - 오늘 강의까지 배운 내용들을 활용해서 키보드/마우스 입력, 영상의 화 질을 개선하거나 영상에서 edge, boundary를 추출하는 알고리즘을 적용
-    - 다음주(10/20) 강의시간에 각자 5page 내외로 발표
-    - 발표자료와 소스코드를 e-campus를 통해 제출
 
   - 리포트 : [과제1](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)mid_term_project.pptx)
   - Source Code : 
