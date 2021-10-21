@@ -29,4 +29,4 @@
 - 논문 분석 과제_임동민
 ## 컴퓨터 비전 실제 (2)
 - (1) [2021-10-13] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)%EA%B3%BC%EC%A0%9C1_%EB%B3%B4%EA%B3%A0%EC%84%9C_20211013.hwp)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EA%B3%BC%EC%A0%9C1):과제1_보고서_20211013
-- (2) [2021-10-20] [[보고서]]()[[프로그램]]():중간고사 프로젝트
+- (2) [2021-10-20] [[보고서]](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)mid_term_project.pptx)[[프로그램]](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-project):중간고사 프로젝트
