@@ -20,9 +20,9 @@
 
   - 리포트 : [과제1](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)mid_term_project_1023b.pptx)
     - 주제 : 신호등을 인식하여 자율주행 제어 신호에 활용
-    </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-%EC%A3%BC%EC%A0%9C.JPG" width="70%"></img> 
+    </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-%EC%A3%BC%EC%A0%9C.JPG" width="100%"></img> 
     - 프로그램 순서도 및 신호등 정보 추출 과정
-    </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-flow.JPG" width="70%"></img> 
+    </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-flow.JPG" width="100%"></img> 
   - Source Code : 
     - [Source](https://github.com/dmlim-cbu/industrial-AI-master/tree/master/programming/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-project)     
 
