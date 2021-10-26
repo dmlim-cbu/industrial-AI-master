@@ -18,7 +18,7 @@
     - 현업에서 컴퓨터비전 관련 문제를 정하고 관련 데이터베이스를 수집한 후에 이에 대한 초기 프로젝트를 진행함
     - 오늘 강의까지 배운 내용들을 활용해서 키보드/마우스 입력, 영상의 화 질을 개선하거나 영상에서 edge, boundary를 추출하는 알고리즘을 적용
 
-  - 리포트 : [과제1](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)mid_term_project_1023b.pptx)
+  - 리포트 : [발표자료](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/%EB%A6%AC%ED%8F%AC%ED%8A%B8/(%EC%9E%84%EB%8F%99%EB%AF%BC)mid_term_project_1023b.pptx)
     - 주제 : 신호등을 인식하여 자율주행 제어 신호에 활용
     </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C/mid-term-%EC%A3%BC%EC%A0%9C.JPG" width="100%"></img> 
     - 프로그램 순서도 및 신호등 정보 추출 과정
