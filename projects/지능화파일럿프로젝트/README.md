@@ -55,6 +55,14 @@
 
 </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B5%9C%EC%A2%85_2%EC%B0%A8%EC%8B%9C%ED%97%98.JPG" width="80%"></img> 
 
+- [06] 컴퓨터정보통신연구 논문 개제
+  - 제목 : 자율주행차 운행 데이터 및 서비스 인터페이스를 위한 통합 소프트웨어 플랫폼 설계 (Design of the Integrated Software Platform for Autonomous Vehicle 
+Operation Data and Service Interface)
+
+</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%85%BC%EB%AC%B8_%EB%8C%80%ED%91%9C%EA%B7%B8%EB%A6%BC.JPG" width="80%"></img> 
+  
+  - 논문 : [논문](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%A6%AC%ED%8F%AC%ED%8A%B8/12_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%B0%A8%20%EC%9A%B4%ED%96%89%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B0%8F%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%86%B5%ED%95%A9%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EC%84%A4%EA%B3%84.pdf)
+  
 ## 세미나
 - [세미나](https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84%20%EB%B6%84%EC%95%BC%EC%9D%98%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EC%A0%81%EC%9A%A9%20%EC%82%AC%EB%A1%80.pdf)
 
