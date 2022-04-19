@@ -1,5 +1,5 @@
 ## 지능화 파일럿 프로젝트
-</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/devel_process.JPG" width="70%"></img> 
+</img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/devel_process.JPG" width="80%"></img> 
 
 
 ## 지능화 파일럿 프로젝트 진행 사항 발표자료
