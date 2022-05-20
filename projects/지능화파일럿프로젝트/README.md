@@ -55,7 +55,7 @@
 
 </img><img src="https://github.com/dmlim-cbu/industrial-AI-master/blob/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%ED%8C%8C%EC%9D%BC%EB%9F%BF%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B5%9C%EC%A2%85_2%EC%B0%A8%EC%8B%9C%ED%97%98.JPG" width="60%"></img> 
 
-- [06] 컴퓨터정보통신연구 논문 개제
+- [06] 컴퓨터정보통신연구 논문 게제
   - 제목 : 자율주행차 운행 데이터 및 서비스 인터페이스를 위한 통합 소프트웨어 플랫폼 설계 (Design of the Integrated Software Platform for Autonomous Vehicle 
 Operation Data and Service Interface)
 
